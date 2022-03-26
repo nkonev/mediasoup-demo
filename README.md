@@ -124,3 +124,8 @@ $ MEDIASOUP_ANNOUNCED_IP=192.168.1.34 ./docker/run.sh
 ## License
 
 MIT
+
+# Installation in app
+```
+npm install --legacy-peer-deps
+```
